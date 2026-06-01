@@ -6,6 +6,9 @@ A CoreXY diode laser cutter built on a 2020 aluminium extrusion frame.
 
 GhostCutter is a simple DIY coreXY designed laser cutter designed on a coreXY 3d printer like frame built for hotswap toolheads
 
+<img width="960" height="621" alt="image (6)" src="https://github.com/user-attachments/assets/8da94373-2313-4e72-91d4-3ff821561aaa" />
+
+
 ## Specs
 
 | Parameter | Value |
