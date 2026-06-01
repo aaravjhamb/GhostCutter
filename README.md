@@ -34,7 +34,7 @@ GhostCutter is a simple DIY coreXY designed laser cutter designed on a coreXY 3d
 
 # Bed Design
 
-Clear acrylic slat design — uses a diode laser's inability to cut through clear acrylic as an advantage. Slats slide into a 3D printed base with shallow grooves on one side and deep grooves on the other.
+The bed uses a Clear acrylic slat design. This means that it uses a diode laser's inability to cut through clear acrylic as an advantage rather than a drawback. Slats slide into a 3D printed base with shallow grooves on one side and deep grooves on the other to form a slatted bed.
 
 ### Laser Head
 LT-80w-AA with a 10w Optical Output - This fits on to a hotswap head
