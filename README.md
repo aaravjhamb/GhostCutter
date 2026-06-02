@@ -20,20 +20,8 @@ GhostCutter is a simple DIY coreXY designed laser cutter designed on a coreXY 3d
 | Laser module | LaserTree LT-80W-AA (10W optical) |
 | Wavelength | 450nm |
 
-## BOM
+<img width="580" height="868" alt="image" src="https://github.com/user-attachments/assets/fd2b4553-b63a-49c0-a078-a11dbd0cdd87" />
 
-| Part | Qty | Source | Cost (USD) |
-|------|-----|--------|------|
-| MGN12 linear rails | 3 | on hand | $30 |
-| 2020 aluminium extrusion 100mm | 6 | [Core Electronics](https://core-electronics.com.au/2020-aluminium-extrusion-600mm.html) | $70 |
-| 17HS24-2104S NEMA 17 stepper motors | 2 | [OMC StepperOnline](https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-65ncm-92oz-in-2-1a-3-36v-42x42x60mm-4-wires-17hs24-2104s) | $43 |
-| LaserTree LT-80W-AA laser module | 1 | [LaserTree](https://lasertree.com/products/10w-optical-output-power-laser-cutter-module) | $131 |
-| Air assist pump | 1 | [Sculpfun](https://www.sculpfun.com/products/sculpfun-air-pump) | $69 |
-| Misc (pulleys x10, belts, screws) | 3 | aliexpress | $30 |
-| 3D printed parts | NA | print farm (on hand) | $0 |
-| **Total** | | | **~$347** |
-
-> Controller board, enclosure panels, acrylic bed slats, and safety goggles not yet costed above.
 
 # Bed Design
 
