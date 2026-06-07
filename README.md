@@ -1,6 +1,7 @@
 # GhostCutter
 
 A CoreXY diode laser cutter built on a 2020 aluminium extrusion frame.
+![GhostCutter Render_.png](https://cdn.aaravj.tech/files/cbe24357-3d8f-46ff-b81b-004942b160ea/GhostCutter%20Render_.png)
 
 ## Overview
 
